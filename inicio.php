@@ -151,25 +151,33 @@
             <!-- ============================================================== -->
             <!-- Start right Content here -->
             <!-- ============================================================== -->
-            <div class="container-fluir container">
-                <div class="row">
-                    <div class="col-12">
-                        <?php for ($i=0; $i < 10; $i++) { 
-                            
-                        ?>
-                        <div class="card" style="width: 18rem;">
-                            <img src="img/334121-1200-auto.webp" class="card-img-top" alt="...">
-                            <div class="card-body">
-                              <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+            <div class="main-content">
+            <div class="page-content">
+                        <div class="container-fluid">
+
+                            <!-- start page title -->
+                            <div class="row">
+                                <div class="container-fluid row">
+                                    <?php for ($i=0; $i < 10; $i++) {
+                                        ?>
+                                        <div class="col-md-3" >
+                                            <div class="card">
+                                                <img class="card-im-top img-fluid" src="https://mipclista.com.pe/5275-large_default/pc-gamer-haku-blue-ryzen-5-5600g.jpg" >
+                                                <div class="card-body">
+                                                    <h5 class="card-title">titulo</h5>
+                                                    <p class="card-text">descripcion</p>                                                
+                                                    </div>
+                                                    </div>
+                                                    </div>
+                                    <?php  }?>
+                                </div>
                             </div>
-                          </div>
-                        <?php } ?>
+                            <!-- end page title -->
 
+                        </div> <!-- container-fluid -->
                     </div>
-
-                </div>
-
             </div>
+                
             
                 </div>
                 <!-- End Page-content -->
