@@ -62,6 +62,7 @@
                     <h4>Nosotros</h4>
                     <p class="text-muted mt-3 mb-4"> En Tecno Pro, nos dedicamos a ofrecer una amplia gama de equipos electrónicos y tecnológicos de <br/> 
                     alta calidad. Nuestro objetivo es proporcionar a nuestros clientes productos innovadores y fiables,<br/>junto con un servicio al cliente excepcional </p>
+                    
 
                 </div>
             </div><!-- end col -->
@@ -72,10 +73,15 @@
             <div class="col-lg-8">
                 <div class="card">
                     <div class="card-body">
+                    
                         <h5 class="mb-3 font-weight-bold text-uppercase">¿Quiénes Somos?</h5>
                         <p>Somos una empresa comprometida con la excelencia en la comercialización de equipos electrónicos.
                              Con una trayectoria que nos respalda, hemos establecido fuertes relaciones con los principales fabricantes
                               del sector para garantizar la mejor calidad en nuestros productos.</p>
+                              <div class="col-md-4 d-flex justify-content-center align-items-center">
+                <img src="img/logo tecno pro-50.jpg"
+                    class="img-fluid" alt="Imagen de Nosotros">
+            </div>
                         <div id="accordion">
                             <div class="card mb-1">
                                 <div class="card-header bg-white border-bottom-0 p-3" id="headingOne">
