@@ -1,1 +1,1 @@
-en este repositorio se desarillara una plantilla para wordpress
+en este repositorio se desarrollara una plantilla pra wordpress.
