@@ -41,11 +41,11 @@
         <div class="row">
             <div class="col-12">
                 <div class="page-title-box d-flex align-items-center justify-content-between">
-                    <h4 class="mb-0 font-size-18">FAQs</h4>
+                    <h4 class="mb-0 font-size-18">Preguntas frecuentes</h4>
 
                     <div class="page-title-right">
                         <ol class="breadcrumb m-0">
-                            <li class="breadcrumb-item"><a href="javascript: void(0);">Pages</a></li>
+                            <li class="breadcrumb-item"><a href="javascript: void(0);">Pagina</a></li>
                             <li class="breadcrumb-item active">FAQs</li>
                         </ol>
                     </div>
@@ -58,7 +58,7 @@
         <div class="row">
             <div class="col-sm-12">
                 <div class="text-center mt-4">
-                    <h4>Preguntas frecuentes</h4>
+                    <h4>PREGUNTAS FRECUENTES</h4>
                     <p class="text-muted mt-3 mb-4"> Nisi praesentium similique totam odio obcaecati, reprehenderit,
                         dignissimos rem temporibus ea inventore alias!<br/> Beatae animi nemo ea
                         tempora, temporibus laborum facilis ut!</p>
@@ -79,7 +79,7 @@
                                     <h5 class="m-0 font-size-16">
                                         <a href="#" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true"
                                             aria-controls="collapseOne" class="text-dark">
-                                            Q. ¿Qué es Lorem Ipsum?
+                                            Q. QUE OPINA DE NUESTRO PRODUCTO?
                                         </a>
                                     </h5>
                                 </div>
@@ -105,7 +105,7 @@
                                 <div class="card-header bg-white border-bottom-0 p-3" id="headingTwo">
                                     <h5 class="m-0 font-size-16">
                                         <a href="#" class="text-dark collapsed" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                                            Q. ¿Es seguro el uso de Lorem Ipsum?
+                                            Q. RECOMENDADCIONES?
                                         </a>
                                     </h5>
                                 </div>
@@ -129,7 +129,7 @@
                                 <div class="card-header bg-white border-bottom-0 p-3" id="headingThree">
                                     <h5 class="m-0 font-size-16">
                                         <a href="#" class="text-dark collapsed" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                                            Q. ¿Por qué utilizar Lorem Ipsum?
+                                            Q. Why use Lorem Ipsum?
                                         </a>
                                     </h5>
                                 </div>
@@ -157,13 +157,13 @@
 
                 <div class="card">
                     <div class="card-body">
-                        <h5 class="mb-3 font-weight-bold text-uppercase">Pagos y soporte</h5>
+                        <h5 class="mb-3 font-weight-bold text-uppercase">Payments & Support</h5>
                         <div id="accordion2">
                             <div class="card mb-1">
                                 <div class="card-header bg-white border-bottom-0 p-3" id="headingFour">
                                     <h5 class="m-0 font-size-16">
                                         <a href="#" class="text-dark collapsed" data-toggle="collapse" data-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
-                                            Q. ¿Cuándo se puede utilizar?
+                                            Q. When can be used?
                                         </a>
                                     </h5>
                                 </div>
@@ -187,7 +187,7 @@
                                 <div class="card-header bg-white border-bottom-0 p-3" role="tab" id="headingFive">
                                     <h5 class="m-0 font-size-16">
                                         <a href="#" class="text-dark collapsed" data-toggle="collapse" data-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
-                                            Q. ¿Cuántas variaciones existen?
+                                            Q. How many variations exist?
                                         </a>
                                     </h5>
                                 </div>
@@ -211,7 +211,7 @@
                                 <div class="card-header bg-white border-bottom-0 p-3" role="tab" id="headingSix">
                                     <h5 class="m-0 font-size-16">
                                         <a href="#" class="text-dark collapsed" data-toggle="collapse" data-target="#collapseSix" aria-expanded="false" aria-controls="collapseSix">
-                                            Q. Licencia y derechos de autor
+                                            Q. License & Copyright
                                         </a>
                                     </h5>
                                 </div>
@@ -236,7 +236,9 @@
                     </div>
                 </div>
             </div> <!-- end col -->
-
+            <?php
+                 include ("include/pie_pagina.php");
+            ?>
         <!-- Overlay-->
         <div class="menu-overlay"></div>
 
