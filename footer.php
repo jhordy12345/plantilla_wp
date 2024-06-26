@@ -2,11 +2,11 @@
                     <div class="container-fluid">
                         <div class="row">
                             <div class="col-sm-6">
-                                2020 © Xeloro.
+                                2020 © MIRIAM CUCHICARGA.
                             </div>
                             <div class="col-sm-6">
                                 <div class="text-sm-right d-none d-sm-block">
-                                    Diseño y desarrollo por Myra
+                                    yuwenjhor@gmail.com
                                 </div>
                             </div>
                         </div>

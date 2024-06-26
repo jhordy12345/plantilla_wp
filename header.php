@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="utf-8" />
-    <title> Xeloro - Admin & Dashboard Template</title>
+    <title> JHORDY TU PAPI</title>
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta content="Premium Multipurpose Admin & Dashboard Template" name="description" />
     <meta content="MyraStudio" name="author" />
@@ -93,11 +93,12 @@
                     )
                 );
                 ?>
+                
                 <!--- Sidemenu -->
                 <div id="sidebar-menu">
                     <!-- Left Menu Start -->
                     <ul class="metismenu list-unstyled" id="side-menu">
-                        <li class="menu-title">Menu</li>
+                       <!-- <li class="menu-title">Menu</li>
 
                         <li>
                             <a href="audio.php" class="waves-effect"><i class="mdi mdi-home"></i><span>Audio</span></a>
@@ -150,17 +151,15 @@
                         <li>
                             <a href="javascript: void(0)" class="waves-effect"><i class="mdi mdi-map-marker-radius"></i><span>Ubicación</span></a>
 
-                        </li>
+                        </li>-->
 
 
 
                     </ul>
-                </div>
+                </div> 
 
                 <!-- Sidebar -->
             </div>
         </div>
         <!-- Left Sidebar End -->
-        -+-$_COOKIE
-
-        | 1
+        
