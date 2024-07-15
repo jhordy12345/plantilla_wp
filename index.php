@@ -24,7 +24,7 @@ get_header();
                                 </ol>
                                 <div class="carousel-inner" role="listbox">
                                     <div class="carousel-item active">
-                                        <img class="d-block img-fluid" src="https://wallpapers-clan.com/wp-content/uploads/2024/03/starfall-night-sky-mountains-aesthetic-gif-preview-desktop-wallpaper.gif" alt="First slide">
+                                        <img class="d-block img-fluid" src="https://i.blogs.es/7f1111/monitor-4k/1366_2000.webp" alt="First slide">
                                     </div>
                                     <div class="carousel-item">
                                         <img class="d-block img-fluid" src="https://wallpapers-clan.com/wp-content/uploads/2024/02/beautiful-fantasy-landscape-desktop-wallpaper-preview.jpg" alt="Second slide">
@@ -56,9 +56,10 @@ get_header();
 
 
                     ?>
-                            <div class="col-lg-2 col-md-3 col-sm-6">
+                            <div class="col-lg-3 col-md-2 ">
                                 <div class="card">
-                                    <a href="<?php the_permalink(); ?>"><?php  
+                                    
+                                    <a style="margin-left: 60px;" href="<?php the_permalink(); ?>"><?php  
                                     if ( has_post_thumbnail() ) {
                                         the_post_thumbnail('thumbnail', array( 'class' => 'card-im-top img-fluid' ));
                                     }
@@ -67,6 +68,7 @@ get_header();
                                     <div class="card-body">
                                         <h5 class="card-title"><?PHP the_title();?></h5>
                                         <p class="card-text"><?php the_excerpt();?></p>
+                                                                               
                                     </div>
                                 </div>
                             </div>
